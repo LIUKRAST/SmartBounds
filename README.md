@@ -1,7 +1,9 @@
 # Create: Smart Bounds
 
 This mod aims to reduce enormous and nonsense [render bounds](#what-are-render-bounds) for create block entities.
-It also rework some block entities render [bounds caching]
+You can check neoforge block entities render bounds with this command `/neoforge debug_blockentity_renderbounds true`
+
+It also rework some block entities render [bounds caching](#render-bounds-caching)
 
 It's a pretty small optimization, but in large contraptions and big machines areas, it can make the difference.
 We currently support:
