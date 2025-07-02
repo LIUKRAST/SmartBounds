@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.liukrast.smartbounds.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+
+  ],
+  "client": [
+    "ArmBlockEntityMixin",
+    "BeltBlockEntityMixin",
+    "ChainConveyorBlockEntityMixin",
+    "FactoryPanelBlockEntityMixin",
+    "PSIAndDeployerBlockEntitiesMixin",
+    "RollerBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
