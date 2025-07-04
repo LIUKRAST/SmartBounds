@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "${loader_version_range}"
 license = "${mod_license}"
-issueTrackerURL="https://github.com/LIUKRAST/" #TODO: Replace
+issueTrackerURL="https://github.com/LIUKRAST/SmartBounds"
 
 [[mods]]
 modId = "${mod_id}"
